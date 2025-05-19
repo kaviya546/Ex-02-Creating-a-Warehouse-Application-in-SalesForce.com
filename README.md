@@ -1,4 +1,4 @@
-# Ex-06-Creating-a-Warehouse-Application-in-SalesForce.com
+# Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
 
 ## AIM
 
